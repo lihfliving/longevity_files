@@ -1,4 +1,4 @@
-This is the text for exercise 3 of Lapio Git.
+This is the text for exercise 3 of Lapio Git. + more text for testing stash!
 There isn't much going on in here; it's for training purposes only.
 We shall see what's going on with Git as we progress.
 This is added text to check the sync
